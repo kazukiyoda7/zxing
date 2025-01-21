@@ -12,7 +12,7 @@ import java.io.File;
 import java.io.IOException;
 
 
-public class QRCodeDetectionExample {
+public class QRCodeDetection {
     public static void main(String[] args) {
         try {
             // 入力画像のパス
